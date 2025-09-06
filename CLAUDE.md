@@ -31,3 +31,10 @@ WiFi credentials should be stored in `secrets.py` with the following variables:
 - Language: MicroPython
 - Display: Bitmap display with pen-based drawing API
 - Connectivity: WiFi support via `presto.connect()`
+
+## Documentation
+Key documentation files are available in the `docs/` directory:
+- **EzWiFi Documentation**: `docs/EzWiFi_docs.md` - WiFi connectivity and network operations
+- **Pico Graphics Documentation**: `docs/pico_graphics.md` - Display and graphics API reference
+- **Pico Vector Library**: `docs/pico_vector.md` - Vector graphics library documentation
+- **Presto Function Reference**: `docs/presto_function_reference.md` - General Presto platform functions
