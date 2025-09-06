@@ -1,0 +1,2 @@
+WIFI_SSID = "Nightengale-PORT-15"
+WIFI_PASSWORD = "eRGC-Oh1R-rFHu-v4b8"
