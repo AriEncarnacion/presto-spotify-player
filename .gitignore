@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.mpy
+
+# MicroPython specific
+*.mpy
+*.mpy.c
+*.mpy.o
+*.mpy-cross
+*.mpy-cross.exe
+
+# Firmware and build artifacts
+*.bin
+*.elf
+*.hex
+*.uf2
+*.img
+*.map
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Secrets and config
+secrets.py
+
+# Logs
+*.log
+
+# Misc
+*.bak
+*.tmp
+*.orig

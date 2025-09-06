@@ -38,3 +38,12 @@ Key documentation files are available in the `docs/` directory:
 - **Pico Graphics Documentation**: `docs/pico_graphics.md` - Display and graphics API reference
 - **Pico Vector Library**: `docs/pico_vector.md` - Vector graphics library documentation
 - **Presto Function Reference**: `docs/presto_function_reference.md` - General Presto platform functions
+- **Best Practices**: `docs/best_practices.md` - Community-recommended coding practices
+
+## Development Guidelines
+**IMPORTANT**: When writing or modifying any code for this project, always reference `docs/best_practices.md` first to ensure compliance with community-recommended best practices. This includes:
+- Code structure and organization
+- Performance optimization techniques
+- Memory management considerations
+- Display and UI patterns
+- Error handling approaches
